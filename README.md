@@ -24,6 +24,8 @@ Answer files are stored in the mapAnswers directory and the answer file for a pa
 
 Setup and Run the script
 ------------------------
+As with any code you find online, use at your own risk and look/ask for help if you dont know what youre doing !!!
+
 1) Download/Save the folder 'Hitman GB Mexico Rules' from the this repository
 
 2) Open Windows Powershell as Administrator
