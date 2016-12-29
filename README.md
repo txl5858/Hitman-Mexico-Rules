@@ -56,4 +56,16 @@ As with any code you find online, use at your own risk and look/ask for help if 
     
     .\hitmanMexicoRules.ps1 .\mapAnswers\Sapienza.csv
     
+    Your Chosen Level is ...  .\mapAnswers\Paris.csv
+
+    Target 1
+    Your Random Disguise is ...  Event Crew
+    Your Random Weapon is ...  Cleaver
+
+    Target 2
+    Your Random Disguise is ...  Palace Staff
+    Your Random Weapon is ...  Guns
+
+    Your Random Wild Card is ...  Choose Starting Location
+    
 6) Modify/Add files to mapAnswers directory as you like.
