@@ -40,6 +40,18 @@ As with any code you find online, use at your own risk and look/ask for help if 
   
     .\hitmanMexicoRules.ps1
     
+    Your Random Level is ...  Sapienza.csv
+
+    Target 1
+    Your Random Disguise is ...  Store Clerk
+    Your Random Weapon is ...  Poison
+
+    Target 2
+    Your Random Disguise is ...  Church Staff
+    Your Random Weapon is ...  Brick
+
+    Your Random Wild Card is ...  One Save Scum
+    
     or
     
     .\hitmanMexicoRules.ps1 .\mapAnswers\Sapienza.csv
