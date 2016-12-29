@@ -54,7 +54,7 @@ As with any code you find online, use at your own risk and look/ask for help if 
     
     or
     
-    .\hitmanMexicoRules.ps1 .\mapAnswers\Sapienza.csv
+    .\hitmanMexicoRules.ps1 .\mapAnswers\Paris.csv
     
     Your Chosen Level is ...  .\mapAnswers\Paris.csv
 
