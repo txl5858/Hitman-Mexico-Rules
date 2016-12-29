@@ -26,11 +26,11 @@ Setup and Run the script
 ------------------------
 As with any code you find online, use at your own risk and look/ask for help if you dont know what youre doing !!!
 
-1) Download/Extract the folder 'Hitman GB Mexico Rules' from the this repository. Everything you need is in the 7z file but I also included individual files for your reference.
+1) Download/Extract the folder 'Hitman GB Mexico Rules.7z' from the this repository. Everything you need is in the 7z file but I also included individual files for your reference.
 
 2) Open Windows Powershell as Administrator
 
-3) In powershell, change to the 'Hitman GB Mexico Rules' directory.
+3) In powershell, change to the 'Hitman GB Mexico Rules' directory. This directory should be in the location you extracted it.
 
 4) You may need to enable the execution of powershell scripts on your system. To do so, simply run the below command from Powershell as Administrator. You can skip this step if you have ran powershell scripts before on your machine. 
   
