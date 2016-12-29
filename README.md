@@ -1,7 +1,5 @@
 # Hitman-Mexico-Rules git Project
 
-This Project contains a simple powershell script to help Hitman players randomize their experiences based on Giant Bomb's Mexico Rules. The script bassically generates random choices for the Rules listed below, based on the data of each map's answer file. You can run the script with a specific level's answer file as a parameter or you can run the script without any parameters to have random level chosen. To add other maps, simply create the files in the same format as I have with Paris and Sapienza.
-
 Check out Giant Bomb's video of them playing Hitman by these rules 
 
 http://www.giantbomb.com/videos/holiday-specialtacular-2016-hitsmas/2300-11776/.
@@ -11,6 +9,8 @@ http://www.giantbomb.com/videos/holiday-specialtacular-2016-hitsmas/2300-11776/.
   Rule 2 - choose random weapon per target
 
   Rule 3 - choose a random 'wild card' scenario
+
+This Project contains a simple powershell script to help Hitman players randomize their experiences based on Giant Bomb's Mexico Rules. The script bassically generates random choices for the Rules listed above, based on the data of each map's answer file. You can run the script with a specific level's answer file as a parameter or you can run the script without any parameters to have random level chosen. To add other maps, simply create the files in the same format as I have with Paris and Sapienza.
 
 The Project also contains a sample set of .csv files in a directory called mapAnswers. The answer file for a particular map contains the following ...
   
